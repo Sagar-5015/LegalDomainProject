@@ -1,1 +1,3 @@
 # LegalDomainProject
+
+This project deals with residential properties based in UK.....
